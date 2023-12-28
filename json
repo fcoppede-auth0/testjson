@@ -1,5 +1,5 @@
 {
-  "issuer": "https://zylf6w-6001.csb.app/",
+  "issuer": "https://zylf6w-6001.csb.app//",
   "authorization_endpoint": "https://zylf6w-6001.csb.app/newidp/oauth2/authorize",
   "token_endpoint": "https://zylf6w-6001.csb.app/newidp/oauth2/token",
   "userinfo_endpoint": "https://zylf6w-6001.csb.app/newidp/api/users/me",
